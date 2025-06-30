@@ -1,0 +1,25 @@
+
+body {
+  font-family: "Helvetica Neue", sans-serif;
+  background: #111;
+  color: #eee;
+  margin: 0;
+  padding: 2em;
+  line-height: 1.8;
+}
+h1 {
+  color: #00bcd4;
+  border-bottom: 1px solid #00bcd4;
+  padding-bottom: 0.3em;
+}
+.content {
+  margin-top: 2em;
+  white-space: pre-line;
+}
+a {
+  color: #4dd0e1;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
