@@ -1,0 +1,24 @@
+
+body {
+  font-family: "Yu Gothic UI", sans-serif;
+  background: #fffefc;
+  color: #333;
+  margin: 0;
+  padding: 2em;
+  line-height: 1.9;
+}
+h1 {
+  color: #4a90e2;
+  border-bottom: 2px solid #aed6f1;
+  padding-bottom: 0.4em;
+}
+.content {
+  margin-top: 2em;
+}
+a {
+  color: #4a90e2;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
